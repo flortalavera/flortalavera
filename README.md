@@ -9,14 +9,13 @@ Hi 👋 My name is Florencia Talavera, I´m from Argentina and I´m a self-taugh
 • Python
 -
 - 😄 I’m currently learning:
-
 • MySQL
 • React
 • MongoDb
 • Express
 -
 - 📫 How to reach me:
-• www.linkedin.com/in/flor-talavera
-• florii.talavera@gmail.com
+• www.linkedin.com/in/flor-talavera 
+•  florii.talavera@gmail.com
 -
 --> Thanks for your time! See you ✨ 
