@@ -1,4 +1,4 @@
-Hi 👋 My name is Florencia Talavera, I´m from Argentina and I´m a self-taught programmer
+Hi 👋 My name is Florencia Talavera, I´m from Argentina and I´m a Front-End developer
 
 - ✨ Every day I work to improve my knowledge in:
 • Javascript
