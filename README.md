@@ -1,6 +1,6 @@
 Hi 👋 My name is Florencia Talavera, I´m from Argentina and I´m a Frontend developer
 
-🔭 I’m currently working at **Angular projects**
+🔭 I’m currently working at **Angular projects** <br/>
 ✨ Every day I work to improve my knowledge in: <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> Javascript 
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" width="30" height="30"/> Typescript 
