@@ -16,8 +16,7 @@ CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cs
 📫 How to reach me:
 florii.talavera@gmail.com
 <br/>
-🔍 Or look for me at:
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flor-talavera" height="30" width="40"/> https://linkedin.com/in/flor-talavera
+🔍 Or look for me at: https://linkedin.com/in/flor-talavera
 
 
 --> Thanks for your time! See you ✨ 
