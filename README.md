@@ -18,6 +18,11 @@ CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cs
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2vjzkUgvmzye5Q0BVbk9D-5FGOYu9Hv_LLdWXrhyNZjDhiw3AGzwPsXhkuzTJ7D17PA&usqp=CAU" alt="VUE" width="40" display="inline" height="40"/></p>
 <hr/>
 
+- 🔨 Other tools: <p> <img src="https://applitools.com/wp-content/uploads/2018/07/Jira-new-logo.png" alt="JIRA Software" width="80" display="inline" height="40"/>&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEZ8qzIPaSZbld6HkjbcGXg9Eb51DT5HN7aRZVQzPn2Myo93Onq7PXtWMglYnTnMqy3c&usqp=CAU" alt="Amazon" width="50" display="inline" height="40"/>&nbsp; &nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1gDj3WSjAdz8WEHJCnK5SWrIofxcKUEwxQ&usqp=CAU" alt="Docker" width="40" display="inline" height="40"/>&nbsp; &nbsp;<img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" alt="Figma" width="80" display="inline" height="40"/>
+</p>
+
+<hr/>
+
 - 📫 How to reach me:
 florii.talavera@gmail.com
 <br/>
