@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is Florencia Talavera</h1>
 <h3 align="center">I´m from Argentina and I´m a Frontend developer</h3>
 
-- 🔭 I’m currently working at **Angular projects** <br/>
+- 🔭 I’m currently working at **RPA projects** with Python <br/>
 - ✨ Every day I work to improve my knowledge in: <br/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> Javascript 
