@@ -8,7 +8,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" width="30" height="30"/> Typescript 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML
 CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-& Sass <img src="https://lappsii.com/assets/img/clients/sass.png" alt="sass" width="30" height="30"/> <br/> <br/>
+& Sass <img src="https://lappsii.com/assets/img/clients/sass.png" alt="sass" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" padding-top="5"/> Python
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> Angular   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 & Git <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
