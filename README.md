@@ -11,7 +11,8 @@ CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cs
 & Sass <img src="https://lappsii.com/assets/img/clients/sass.png" alt="sass" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" padding-top="5"/> Python
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> Angular   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-& Git <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+Git <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+& <img src="https://cdn.freebiesupply.com/logos/large/2x/php-logo-svg-vector.svg" alt="PHP" width="40" height="40"/>
 <hr/>
 
 - 😄 I’m currently learning: <p><img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="40" display="inline" height="40"/> .NET  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> Express
